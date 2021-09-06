@@ -7,7 +7,7 @@ Modifica el programa que se encuentra en la carpeta `src` que se llama
 ```python
 
 def main():
-    # Escribe el código adecuado para completar el programa
+    # escribe el código adecuado para completar el programa
     peso = float(input("Peso en kg: "))
     altura = float(input("Altura en m: "))
 
